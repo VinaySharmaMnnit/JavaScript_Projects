@@ -1,4 +1,3 @@
-#All projects of Javascript30 challenge
-
-#Different projects have their readme files
-
+# This is a real clock project.
+#HTML, CSS, and JS are used.
+#Second day project of Javascript30 challenge
