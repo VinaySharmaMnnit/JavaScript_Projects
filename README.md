@@ -1,3 +1,3 @@
-# This is a real drum kit project.
-#HTML, CSS, and JS are used.
-#first day project of Javascript30 challenge
+#All projects of Javascript30 challenge.
+#Different projects have their readme files
+
