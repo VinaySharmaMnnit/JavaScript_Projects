@@ -1,3 +1,4 @@
-#All projects of Javascript30 challenge.
-Different projects have their readme files
+#All projects of Javascript30 challenge
+
+#Different projects have their readme files
 
